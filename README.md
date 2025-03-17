@@ -40,6 +40,6 @@ It contains an ETL pipeline designed to fetch earthquake data from the USGS Eart
    - Once the connections are set up, run your DAG in Airflow to fetch earthquake data and load it into PostgreSQL.
   
 4 **Install DBeaver**: Download from [DBeaver website](https://dbeaver.io/download/).
-5. **Create New Connection**: Select **PostgreSQL**, then **Next**.
-6. **Enter Details as required**: 
-7. **Test & Finish**: Click **Test Connection**, then **Finish**.
+**Create New Connection**: Select **PostgreSQL**, then **Next**.
+ **Enter Details as required**: 
+ **Test & Finish**: Click **Test Connection**, then **Finish**.
