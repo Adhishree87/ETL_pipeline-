@@ -1,6 +1,6 @@
 # ETL Pipeline
 
-It contains an ETL pipeline designed to fetch earthquake data from the USGS Earthquake API, transform it, and load it into a PostgreSQL database. The pipeline is built using Apache Airflow for orchestration and Docker for containerization.Later, the analysis and visualization is carried out using matplotlib , pandas and seaborn.
+GeoQuake Analytics contains an ETL pipeline designed to fetch earthquake data from the USGS Earthquake API, transform it, and load it into a PostgreSQL database. The pipeline is built using Apache Airflow for orchestration and Docker for containerization.Later, the analysis and visualization is carried out using matplotlib , pandas and seaborn.
 
 ## How to Run It
 
